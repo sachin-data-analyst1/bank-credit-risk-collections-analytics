@@ -144,7 +144,7 @@ Framed the way a risk/collections analyst would present this to stakeholders:
 │   └── Credit_Risk_Collections_Dashboard.xlsx   # 4-tab formula-driven dashboard
 ├── data/
 │   └── engineered_dataset.csv        # Cleaned & feature-engineered dataset
-├── images/                           # Chart exports + SQL query screenshots
+├── images/                           # Chart exports + SQL query screenshots + Excel dashboard tab screenshots
 ├── docs/
 │   └── PORTFOLIO_LAUNCH_KIT.md       # Resume bullets, LinkedIn/GitHub optimization notes
 ├── engineer.py                       # Python feature engineering script
@@ -160,6 +160,20 @@ The workbook contains 4 tabs, all formula-driven (no hardcoded values — recalc
 - **Risk Segmentation** — 6 drill-down tables (risk grade, credit limit, age, education, marital status, gender) with conditional formatting
 - **Collections Analysis** — stage-level KPIs, DPD distribution, and roll-rate matrix
 - **Raw Data** — full filterable 30,000-row table
+
+> Screenshots below are rendered directly from `excel/Credit_Risk_Collections_Dashboard.xlsx` — the same live, formula-driven workbook included in this repo.
+
+### Dashboard tab — KPI cards & native charts
+![Excel Dashboard Overview](images/excel_dashboard_overview.png)
+
+### Risk Segmentation tab — drill-down tables with conditional formatting
+![Excel Risk Segmentation Tab](images/excel_risk_segmentation_tab.png)
+
+### Collections Analysis tab — funnel KPIs, DPD distribution & roll-rate matrix
+![Excel Collections Analysis Tab](images/excel_collections_analysis_tab.png)
+
+### Raw Data tab — filterable source table (30,000 rows; preview truncated)
+![Excel Raw Data Tab](images/excel_raw_data_tab.png)
 
 ## ▶️ How to Run
 
