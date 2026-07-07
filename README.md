@@ -207,8 +207,8 @@ Open `excel/Credit_Risk_Collections_Dashboard.xlsx` in Excel to explore the inte
 
 ## 👤 Author
 
-**[Your Name]** — Data Analyst
-[LinkedIn](https://linkedin.com/in/your-profile) • [Portfolio](https://your-portfolio.com) • [Email](mailto:you@email.com)
+**Sachin Dhule** — Data Analyst
+[LinkedIn](https://linkedin.com/in/sachindhule) • [Portfolio](https://your-portfolio.com) • [Email](mailto:dhules43@gmail.com)
 
 ---
 *If you found this useful, consider ⭐ starring the repo!*
